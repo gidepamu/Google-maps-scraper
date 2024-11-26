@@ -26,7 +26,7 @@ This Python code is a web scraper that uses Playwright to extract business data 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/gidepamu/Google-maps-scraper.git
    ```
 
 2. Install the dependencies using the requirements.txt file:
