@@ -17,7 +17,7 @@ Sebelum menjalankan skrip, pastikan Anda telah menginstal dependensi berikut:
 ## Instalasi
 1. Clone repositori ini atau unduh skrip.
     ```bash
-   git clone 
+   git clone https://github.com/gidepamu/Google-maps-scraper.git
    ```
 2. Instal dependensi Python:
    ```bash
